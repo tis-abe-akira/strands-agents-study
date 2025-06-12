@@ -1,0 +1,13 @@
+# Strands Agents core packages
+strands-agents>=0.1.0
+strands-agents-tools>=0.1.0
+
+# LiteLLM for model provider integration
+strands-agents[litellm]
+
+# LangSmith integration
+langsmith>=0.1.0
+langchain>=0.1.0
+
+# Additional dependencies for enhanced functionality
+python-dotenv>=1.0.0
